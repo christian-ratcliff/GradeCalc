@@ -1,0 +1,806 @@
+{
+    "semester": "Fall 2021",
+    "courses": {
+      "Calculus I": {
+        "name": "Calculus I",
+        "credit_hours": 4.0,
+        "semester": "Fall 2021",
+        "categories": {
+          "Homework": {
+            "name": "Homework",
+            "weight": 20.0,
+            "total_assignments": 12,
+            "drops": 2,
+            "grades": [95.0, 88.0, 92.0, 87.0]
+          },
+          "Tests": {
+            "name": "Tests",
+            "weight": 60.0,
+            "total_assignments": 3,
+            "drops": 0,
+            "grades": [88.0, 85.0]
+          },
+          "Final": {
+            "name": "Final",
+            "weight": 20.0,
+            "total_assignments": 1,
+            "drops": 0,
+            "grades": [90.0]
+          }
+        },
+        "grade_boundaries": {
+          "4.0": 93.0,
+          "3.5": 87.0,
+          "3.0": 83.0,
+          "2.5": 77.0,
+          "2.0": 70.0
+        },
+        "final_policy": "No Replacement"
+      },
+      "Chemistry I": {
+        "name": "Chemistry I",
+        "credit_hours": 4.0,
+        "semester": "Fall 2021",
+        "categories": {
+          "Labs": {
+            "name": "Labs",
+            "weight": 25.0,
+            "total_assignments": 10,
+            "drops": 1,
+            "grades": [92.0, 88.0, 95.0]
+          },
+          "Tests": {
+            "name": "Tests",
+            "weight": 50.0,
+            "total_assignments": 3,
+            "drops": 0,
+            "grades": [85.0, 88.0]
+          },
+          "Final": {
+            "name": "Final",
+            "weight": 25.0,
+            "total_assignments": 1,
+            "drops": 0,
+            "grades": [87.0]
+          }
+        },
+        "grade_boundaries": {
+          "4.0": 93.0,
+          "3.5": 87.0,
+          "3.0": 83.0,
+          "2.5": 77.0,
+          "2.0": 70.0
+        },
+        "final_policy": "No Replacement"
+      },
+      "English Composition": {
+        "name": "English Composition",
+        "credit_hours": 3.0,
+        "semester": "Fall 2021",
+        "categories": {
+          "Essays": {
+            "name": "Essays",
+            "weight": 70.0,
+            "total_assignments": 4,
+            "drops": 0,
+            "grades": [88.0, 92.0, 85.0]
+          },
+          "Participation": {
+            "name": "Participation",
+            "weight": 30.0,
+            "total_assignments": 10,
+            "drops": 2,
+            "grades": [95.0, 90.0, 92.0]
+          }
+        },
+        "grade_boundaries": {
+          "4.0": 93.0,
+          "3.5": 87.0,
+          "3.0": 83.0,
+          "2.5": 77.0,
+          "2.0": 70.0
+        },
+        "final_policy": "No Replacement"
+      },
+      "History 101": {
+        "name": "History 101",
+        "credit_hours": 3.0,
+        "semester": "Fall 2021",
+        "categories": {
+          "Tests": {
+            "name": "Tests",
+            "weight": 60.0,
+            "total_assignments": 3,
+            "drops": 0,
+            "grades": [88.0, 85.0]
+          },
+          "Papers": {
+            "name": "Papers",
+            "weight": 40.0,
+            "total_assignments": 2,
+            "drops": 0,
+            "grades": [90.0, 87.0]
+          }
+        },
+        "grade_boundaries": {
+          "4.0": 93.0,
+          "3.5": 87.0,
+          "3.0": 83.0,
+          "2.5": 77.0,
+          "2.0": 70.0
+        },
+        "final_policy": "No Replacement"
+      },
+      "Calculus II": {
+        "name": "Calculus II",
+        "credit_hours": 4.0,
+        "semester": "Spring 2022",
+        "categories": {
+          "Homework": {
+            "name": "Homework",
+            "weight": 20.0,
+            "total_assignments": 12,
+            "drops": 2,
+            "grades": [87.0, 92.0, 85.0]
+          },
+          "Tests": {
+            "name": "Tests",
+            "weight": 60.0,
+            "total_assignments": 3,
+            "drops": 0,
+            "grades": [83.0, 86.0]
+          },
+          "Final": {
+            "name": "Final",
+            "weight": 20.0,
+            "total_assignments": 1,
+            "drops": 0,
+            "grades": [85.0]
+          }
+        },
+        "grade_boundaries": {
+          "4.0": 93.0,
+          "3.5": 87.0,
+          "3.0": 83.0,
+          "2.5": 77.0,
+          "2.0": 70.0
+        },
+        "final_policy": "No Replacement"
+      },
+      "Chemistry II": {
+        "name": "Chemistry II",
+        "credit_hours": 4.0,
+        "semester": "Spring 2022",
+        "categories": {
+          "Labs": {
+            "name": "Labs",
+            "weight": 25.0,
+            "total_assignments": 10,
+            "drops": 1,
+            "grades": [88.0, 92.0, 85.0]
+          },
+          "Tests": {
+            "name": "Tests",
+            "weight": 50.0,
+            "total_assignments": 3,
+            "drops": 0,
+            "grades": [87.0, 84.0]
+          },
+          "Final": {
+            "name": "Final",
+            "weight": 25.0,
+            "total_assignments": 1,
+            "drops": 0,
+            "grades": [86.0]
+          }
+        },
+        "grade_boundaries": {
+          "4.0": 93.0,
+          "3.5": 87.0,
+          "3.0": 83.0,
+          "2.5": 77.0,
+          "2.0": 70.0
+        },
+        "final_policy": "No Replacement"
+      },
+      "Psychology 101": {
+        "name": "Psychology 101",
+        "credit_hours": 3.0,
+        "semester": "Spring 2022",
+        "categories": {
+          "Tests": {
+            "name": "Tests",
+            "weight": 70.0,
+            "total_assignments": 4,
+            "drops": 0,
+            "grades": [90.0, 87.0]
+          },
+          "Assignments": {
+            "name": "Assignments",
+            "weight": 30.0,
+            "total_assignments": 8,
+            "drops": 1,
+            "grades": [92.0, 88.0, 85.0]
+          }
+        },
+        "grade_boundaries": {
+          "4.0": 93.0,
+          "3.5": 87.0,
+          "3.0": 83.0,
+          "2.5": 77.0,
+          "2.0": 70.0
+        },
+        "final_policy": "No Replacement"
+      },
+      "Sociology": {
+        "name": "Sociology",
+        "credit_hours": 3.0,
+        "semester": "Spring 2022",
+        "categories": {
+          "Exams": {
+            "name": "Exams",
+            "weight": 60.0,
+            "total_assignments": 3,
+            "drops": 0,
+            "grades": [88.0, 85.0]
+          },
+          "Projects": {
+            "name": "Projects",
+            "weight": 40.0,
+            "total_assignments": 2,
+            "drops": 0,
+            "grades": [90.0, 86.0]
+          }
+        },
+        "grade_boundaries": {
+          "4.0": 93.0,
+          "3.5": 87.0,
+          "3.0": 83.0,
+          "2.5": 77.0,
+          "2.0": 70.0
+        },
+        "final_policy": "No Replacement"
+      },
+      "Physics I": {
+        "name": "Physics I",
+        "credit_hours": 4.0,
+        "semester": "Fall 2022",
+        "categories": {
+          "Labs": {
+            "name": "Labs",
+            "weight": 25.0,
+            "total_assignments": 10,
+            "drops": 1,
+            "grades": [89.0, 86.0, 92.0]
+          },
+          "Tests": {
+            "name": "Tests",
+            "weight": 50.0,
+            "total_assignments": 3,
+            "drops": 0,
+            "grades": [84.0, 87.0]
+          },
+          "Final": {
+            "name": "Final",
+            "weight": 25.0,
+            "total_assignments": 1,
+            "drops": 0,
+            "grades": [85.0]
+          }
+        },
+        "grade_boundaries": {
+          "4.0": 93.0,
+          "3.5": 87.0,
+          "3.0": 83.0,
+          "2.5": 77.0,
+          "2.0": 70.0
+        },
+        "final_policy": "No Replacement"
+      },
+      "Differential Equations": {
+        "name": "Differential Equations",
+        "credit_hours": 3.0,
+        "semester": "Fall 2022",
+        "categories": {
+          "Homework": {
+            "name": "Homework",
+            "weight": 20.0,
+            "total_assignments": 10,
+            "drops": 1,
+            "grades": [88.0, 85.0, 90.0]
+          },
+          "Tests": {
+            "name": "Tests",
+            "weight": 60.0,
+            "total_assignments": 3,
+            "drops": 0,
+            "grades": [86.0, 83.0]
+          },
+          "Final": {
+            "name": "Final",
+            "weight": 20.0,
+            "total_assignments": 1,
+            "drops": 0,
+            "grades": [85.0]
+          }
+        },
+        "grade_boundaries": {
+          "4.0": 93.0,
+          "3.5": 87.0,
+          "3.0": 83.0,
+          "2.5": 77.0,
+          "2.0": 70.0
+        },
+        "final_policy": "No Replacement"
+      },
+      "Computer Science I": {
+        "name": "Computer Science I",
+        "credit_hours": 3.0,
+        "semester": "Fall 2022",
+        "categories": {
+          "Labs": {
+            "name": "Labs",
+            "weight": 30.0,
+            "total_assignments": 12,
+            "drops": 2,
+            "grades": [92.0, 88.0, 95.0]
+          },
+          "Projects": {
+            "name": "Projects",
+            "weight": 50.0,
+            "total_assignments": 3,
+            "drops": 0,
+            "grades": [87.0, 90.0]
+          },
+          "Final": {
+            "name": "Final",
+            "weight": 20.0,
+            "total_assignments": 1,
+            "drops": 0,
+            "grades": [88.0]
+          }
+        },
+        "grade_boundaries": {
+          "4.0": 93.0,
+          "3.5": 87.0,
+          "3.0": 83.0,
+          "2.5": 77.0,
+          "2.0": 70.0
+        },
+        "final_policy": "No Replacement"
+      },
+      "Technical Writing": {
+        "name": "Technical Writing",
+        "credit_hours": 3.0,
+        "semester": "Fall 2022",
+        "categories": {
+          "Papers": {
+            "name": "Papers",
+            "weight": 70.0,
+            "total_assignments": 4,
+            "drops": 0,
+            "grades": [89.0, 86.0, 91.0]
+          },
+          "Presentations": {
+            "name": "Presentations",
+            "weight": 30.0,
+            "total_assignments": 2,
+            "drops": 0,
+            "grades": [88.0, 90.0]
+          }
+        },
+        "grade_boundaries": {
+          "4.0": 93.0,
+          "3.5": 87.0,
+          "3.0": 83.0,
+          "2.5": 77.0,
+          "2.0": 70.0
+        },
+        "final_policy": "No Replacement"
+      },
+      "Physics II": {
+        "name": "Physics II",
+        "credit_hours": 4.0,
+        "semester": "Spring 2023",
+        "categories": {
+          "Labs": {
+            "name": "Labs",
+            "weight": 25.0,
+            "total_assignments": 10,
+            "drops": 1,
+            "grades": [87.0, 90.0, 85.0]
+          },
+          "Tests": {
+            "name": "Tests",
+            "weight": 50.0,
+            "total_assignments": 3,
+            "drops": 0,
+            "grades": [85.0, 82.0]
+          },
+          "Final": {
+            "name": "Final",
+            "weight": 25.0,
+            "total_assignments": 1,
+            "drops": 0,
+            "grades": [84.0]
+          }
+        },
+        "grade_boundaries": {
+          "4.0": 93.0,
+          "3.5": 87.0,
+          "3.0": 83.0,
+          "2.5": 77.0,
+          "2.0": 70.0
+        },
+        "final_policy": "No Replacement"
+      },
+      "Computer Science II": {
+      "name": "Computer Science II",
+      "credit_hours": 3.0,
+      "semester": "Spring 2023",
+      "categories": {
+        "Labs": {
+          "name": "Labs",
+          "weight": 30.0,
+          "total_assignments": 12,
+          "drops": 2,
+          "grades": [90.0, 87.0, 93.0]
+        },
+        "Projects": {
+          "name": "Projects",
+          "weight": 50.0,
+          "total_assignments": 3,
+          "drops": 0,
+          "grades": [85.0, 88.0]
+        },
+        "Final": {
+          "name": "Final",
+          "weight": 20.0,
+          "total_assignments": 1,
+          "drops": 0,
+          "grades": [86.0]
+        }
+      },
+      "grade_boundaries": {
+        "4.0": 93.0,
+        "3.5": 87.0,
+        "3.0": 83.0,
+        "2.5": 77.0,
+        "2.0": 70.0
+      },
+      "final_policy": "No Replacement"
+    },
+    "Linear Algebra": {
+      "name": "Linear Algebra",
+      "credit_hours": 3.0,
+      "semester": "Spring 2023",
+      "categories": {
+        "Homework": {
+          "name": "Homework",
+          "weight": 20.0,
+          "total_assignments": 10,
+          "drops": 1,
+          "grades": [89.0, 86.0, 91.0]
+        },
+        "Tests": {
+          "name": "Tests",
+          "weight": 60.0,
+          "total_assignments": 3,
+          "drops": 0,
+          "grades": [87.0, 84.0]
+        },
+        "Final": {
+          "name": "Final",
+          "weight": 20.0,
+          "total_assignments": 1,
+          "drops": 0,
+          "grades": [85.0]
+        }
+      },
+      "grade_boundaries": {
+        "4.0": 93.0,
+        "3.5": 87.0,
+        "3.0": 83.0,
+        "2.5": 77.0,
+        "2.0": 70.0
+      },
+      "final_policy": "No Replacement"
+    },
+    "Ethics": {
+      "name": "Ethics",
+      "credit_hours": 3.0,
+      "semester": "Spring 2023",
+      "categories": {
+        "Essays": {
+          "name": "Essays",
+          "weight": 60.0,
+          "total_assignments": 3,
+          "drops": 0,
+          "grades": [88.0, 91.0]
+        },
+        "Discussions": {
+          "name": "Discussions",
+          "weight": 40.0,
+          "total_assignments": 10,
+          "drops": 2,
+          "grades": [92.0, 89.0, 87.0]
+        }
+      },
+      "grade_boundaries": {
+        "4.0": 93.0,
+        "3.5": 87.0,
+        "3.0": 83.0,
+        "2.5": 77.0,
+        "2.0": 70.0
+      },
+      "final_policy": "No Replacement"
+    },
+    "Data Structures": {
+      "name": "Data Structures",
+      "credit_hours": 4.0,
+      "semester": "Fall 2023",
+      "categories": {
+        "Projects": {
+          "name": "Projects",
+          "weight": 60.0,
+          "total_assignments": 4,
+          "drops": 0,
+          "grades": [86.0, 89.0, 84.0]
+        },
+        "Tests": {
+          "name": "Tests",
+          "weight": 40.0,
+          "total_assignments": 3,
+          "drops": 0,
+          "grades": [85.0, 88.0]
+        }
+      },
+      "grade_boundaries": {
+        "4.0": 93.0,
+        "3.5": 87.0,
+        "3.0": 83.0,
+        "2.5": 77.0,
+        "2.0": 70.0
+      },
+      "final_policy": "No Replacement"
+    },
+    "Operating Systems": {
+      "name": "Operating Systems",
+      "credit_hours": 3.0,
+      "semester": "Fall 2023",
+      "categories": {
+        "Projects": {
+          "name": "Projects",
+          "weight": 50.0,
+          "total_assignments": 3,
+          "drops": 0,
+          "grades": [87.0, 84.0]
+        },
+        "Tests": {
+          "name": "Tests",
+          "weight": 30.0,
+          "total_assignments": 2,
+          "drops": 0,
+          "grades": [85.0, 88.0]
+        },
+        "Final": {
+          "name": "Final",
+          "weight": 20.0,
+          "total_assignments": 1,
+          "drops": 0,
+          "grades": [86.0]
+        }
+      },
+      "grade_boundaries": {
+        "4.0": 93.0,
+        "3.5": 87.0,
+        "3.0": 83.0,
+        "2.5": 77.0,
+        "2.0": 70.0
+      },
+      "final_policy": "No Replacement"
+    },
+    "Algorithms": {
+      "name": "Algorithms",
+      "credit_hours": 3.0,
+      "semester": "Fall 2023",
+      "categories": {
+        "Homework": {
+          "name": "Homework",
+          "weight": 30.0,
+          "total_assignments": 8,
+          "drops": 1,
+          "grades": [89.0, 86.0, 91.0]
+        },
+        "Tests": {
+          "name": "Tests",
+          "weight": 50.0,
+          "total_assignments": 2,
+          "drops": 0,
+          "grades": [85.0, 87.0]
+        },
+        "Final": {
+          "name": "Final",
+          "weight": 20.0,
+          "total_assignments": 1,
+          "drops": 0,
+          "grades": [88.0]
+        }
+      },
+      "grade_boundaries": {
+        "4.0": 93.0,
+        "3.5": 87.0,
+        "3.0": 83.0,
+        "2.5": 77.0,
+        "2.0": 70.0
+      },
+      "final_policy": "No Replacement"
+    },
+    "Statistics": {
+      "name": "Statistics",
+      "credit_hours": 3.0,
+      "semester": "Fall 2023",
+      "categories": {
+        "Homework": {
+          "name": "Homework",
+          "weight": 20.0,
+          "total_assignments": 10,
+          "drops": 1,
+          "grades": [92.0, 88.0, 90.0]
+        },
+        "Tests": {
+          "name": "Tests",
+          "weight": 60.0,
+          "total_assignments": 3,
+          "drops": 0,
+          "grades": [86.0, 89.0]
+        },
+        "Final": {
+          "name": "Final",
+          "weight": 20.0,
+          "total_assignments": 1,
+          "drops": 0,
+          "grades": [87.0]
+        }
+      },
+      "grade_boundaries": {
+        "4.0": 93.0,
+        "3.5": 87.0,
+        "3.0": 83.0,
+        "2.5": 77.0,
+        "2.0": 70.0
+      },
+      "final_policy": "No Replacement"
+    },
+    "Database Systems": {
+      "name": "Database Systems",
+      "credit_hours": 3.0,
+      "semester": "Spring 2024",
+      "categories": {
+        "Projects": {
+          "name": "Projects",
+          "weight": 50.0,
+          "total_assignments": 3,
+          "drops": 0,
+          "grades": [88.0, 85.0]
+        },
+        "Tests": {
+          "name": "Tests",
+          "weight": 30.0,
+          "total_assignments": 2,
+          "drops": 0,
+          "grades": [87.0]
+        },
+        "Final": {
+          "name": "Final",
+          "weight": 20.0,
+          "total_assignments": 1,
+          "drops": 0,
+          "grades": []
+        }
+      },
+      "grade_boundaries": {
+        "4.0": 93.0,
+        "3.5": 87.0,
+        "3.0": 83.0,
+        "2.5": 77.0,
+        "2.0": 70.0
+      },
+      "final_policy": "No Replacement"
+    },
+    "Software Engineering": {
+      "name": "Software Engineering",
+      "credit_hours": 4.0,
+      "semester": "Spring 2024",
+      "categories": {
+        "Team Project": {
+          "name": "Team Project",
+          "weight": 60.0,
+          "total_assignments": 4,
+          "drops": 0,
+          "grades": [90.0, 88.0]
+        },
+        "Tests": {
+          "name": "Tests",
+          "weight": 40.0,
+          "total_assignments": 2,
+          "drops": 0,
+          "grades": [86.0]
+        }
+      },
+      "grade_boundaries": {
+        "4.0": 93.0,
+        "3.5": 87.0,
+        "3.0": 83.0,
+        "2.5": 77.0,
+        "2.0": 70.0
+      },
+      "final_policy": "No Replacement"
+    },
+    "Computer Networks": {
+      "name": "Computer Networks",
+      "credit_hours": 3.0,
+      "semester": "Spring 2024",
+      "categories": {
+        "Labs": {
+          "name": "Labs",
+          "weight": 40.0,
+          "total_assignments": 8,
+          "drops": 1,
+          "grades": [89.0, 86.0]
+        },
+        "Tests": {
+          "name": "Tests",
+          "weight": 40.0,
+          "total_assignments": 2,
+          "drops": 0,
+          "grades": [85.0]
+        },
+        "Final": {
+          "name": "Final",
+          "weight": 20.0,
+          "total_assignments": 1,
+          "drops": 0,
+          "grades": []
+        }
+      },
+      "grade_boundaries": {
+        "4.0": 93.0,
+        "3.5": 87.0,
+        "3.0": 83.0,
+        "2.5": 77.0,
+        "2.0": 70.0
+      },
+      "final_policy": "No Replacement"
+    },
+    "Senior Project": {
+      "name": "Senior Project",
+      "credit_hours": 4.0,
+      "semester": "Spring 2024",
+      "categories": {
+        "Project": {
+          "name": "Project",
+          "weight": 70.0,
+          "total_assignments": 3,
+          "drops": 0,
+          "grades": [92.0, 88.0]
+        },
+        "Presentations": {
+          "name": "Presentations",
+          "weight": 30.0,
+          "total_assignments": 2,
+          "drops": 0,
+          "grades": [90.0]
+        }
+      },
+      "grade_boundaries": {
+        "4.0": 93.0,
+        "3.5": 87.0,
+        "3.0": 83.0,
+        "2.5": 77.0,
+        "2.0": 70.0
+      },
+      "final_policy": "No Replacement"
+    }
+  }
+}
